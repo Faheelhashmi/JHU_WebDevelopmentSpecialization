@@ -26,7 +26,10 @@ body{
 section p{
     font-size:1.6em;
 }
-
+section h2{
+    width:100%;
+    text-align:center;
+    }
 
 
 
